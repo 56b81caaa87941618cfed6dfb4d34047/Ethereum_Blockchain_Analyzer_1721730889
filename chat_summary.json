@@ -1,58 +1,98 @@
 [
     {
-        "role": "makeinfinite",
-        "content": "Can you describe the project a bit more?",
-        "message_id": "project_init",
-        "timestamp": "1721730891",
-        "component_file_name": "",
-        "div_id": ""
-    },
-    {
-        "role": "user",
-        "content": "add a navbar with the navlinks home, about and contact",
-        "timestamp": "23072024103716",
-        "message_id": "guest23072024103716"
-    },
-    {
-        "role": "chat_acknowledge",
-        "content": "Acknowledged, working on adding a navbar with home, about and contact navlinks.",
-        "timestamp": "23072024103718",
-        "message_id": "guest23072024103716"
-    },
-    {
         "role": "chat_ui_checklist",
-        "content": "{\"status\": \"success\", \"ui_elements_checklist\": [{\"feature\": \"Dark/Light mode toggle on the navbar for user preference\", \"checked\": true}, {\"feature\": \"Dropdown menu under 'About' for additional information like 'Team', 'Technology', and 'History'\", \"checked\": false}, {\"feature\": \"Search functionality on the navbar to quickly find blockchain data\", \"checked\": true}, {\"feature\": \"Real-time notifications icon on the navbar about new Ethereum blockchains being analyzed\", \"checked\": false}, {\"feature\": \"User authentication option on the navbar for personalized experiences\", \"checked\": true}, {\"feature\": \"Language selection dropdown for multilingual support\", \"checked\": false}], \"input_token_count\": 221, \"output_token_count\": 131, \"time_taken\": \"0:00:07.175176\"}",
-        "timestamp": "23072024103725",
-        "message_id": "guest23072024103716"
-    },
-    {
-        "role": "user",
-        "content": "add a button that says hey there",
-        "timestamp": "23072024104311",
-        "message_id": "guest23072024104311"
-    },
-    {
-        "role": "chat_acknowledge",
-        "content": "Thanks, adding a button that says \"Hey there\".",
-        "timestamp": "23072024104312",
-        "message_id": "guest23072024104311"
-    },
-    {
-        "role": "chat_ui_checklist",
-        "content": "{\"status\": \"success\", \"ui_elements_checklist\": [{\"feature\": \"Add a button that says 'Hey There'\", \"checked\": true}, {\"feature\": \"Implement dynamic status updates for new Ethereum blocks\", \"checked\": false}, {\"feature\": \"Enable push notifications for significant blockchain events\", \"checked\": false}, {\"feature\": \"Incorporate a real-time Ethereum price tracker\", \"checked\": false}, {\"feature\": \"Offer user customization of the app theme and appearance\", \"checked\": false}, {\"feature\": \"Include a detailed analytics dashboard for blockchain insights\", \"checked\": false}], \"input_token_count\": 216, \"output_token_count\": 104, \"time_taken\": \"0:00:06.119450\"}",
-        "timestamp": "23072024104318",
-        "message_id": "guest23072024104311"
-    },
-    {
-        "role": "user",
-        "content": "add a sidebar with the nav links home, about and contact",
-        "timestamp": "23072024104520",
-        "message_id": "guest23072024104520"
+        "content": "{\"status\": \"success\", \"ui_elements_checklist\": [{\"feature\": \"Dynamic search bar to quickly find specific blockchain information\", \"checked\": true}, {\"feature\": \"Interactive charts and graphs for blockchain analytics\", \"checked\": false}, {\"feature\": \"Real-time notifications for new blocks or significant changes\", \"checked\": true}, {\"feature\": \"User authentication for personalized settings and notifications\", \"checked\": false}, {\"feature\": \"Dark and light mode toggle for user preference\", \"checked\": false}, {\"feature\": \"Comprehensive FAQ section for new users\", \"checked\": true}], \"input_token_count\": 221, \"output_token_count\": 108, \"time_taken\": \"0:00:06.483377\"}",
+        "message_id": "guest23072024104520",
+        "timestamp": "23072024104528",
+        "component_file_name": "simple_header_component_1721730891",
+        "div_id": "",
+        "div_action": ""
     },
     {
         "role": "chat_qna",
         "content": "{\"status\": \"success\", \"qna\": [{\"question 1\": \"Would you prefer the sidebar to be visible at all times or should it be accessible via a toggle button?\", \"option1\": \"Always visible\", \"option2\": \"Accessible via toggle button\"}, {\"question 2\": \"Should the sidebar be positioned on the left or right side of the screen?\", \"option1\": \"Left side\", \"option2\": \"Right side\"}], \"input_token_count\": 267, \"output_token_count\": 90, \"time_taken\": \"0:00:03.556429\"}",
+        "message_id": "guest23072024104520",
         "timestamp": "23072024104525",
+        "component_file_name": "simple_header_component_1721730891",
+        "div_id": "",
+        "div_action": ""
+    },
+    {
+        "role": "chat_acknowledge",
+        "content": "Got it, adding sidebar with home, about and contact links.",
+        "message_id": "guest23072024104520",
+        "timestamp": "23072024104521",
+        "component_file_name": "",
+        "div_id": "",
+        "div_action": ""
+    },
+    {
+        "role": "user",
+        "content": "add a sidebar with the nav links home, about and contact",
+        "message_id": "guest23072024104520",
+        "timestamp": "23072024104520",
+        "component_file_name": "simple_header_component_1721730891",
+        "div_id": "",
+        "div_action": ""
+    },
+    {
+        "role": "chat_ui_checklist",
+        "content": "{\"status\": \"success\", \"ui_elements_checklist\": [{\"feature\": \"Add a button that says 'Hey There'\", \"checked\": true}, {\"feature\": \"Implement dynamic status updates for new Ethereum blocks\", \"checked\": false}, {\"feature\": \"Enable push notifications for significant blockchain events\", \"checked\": false}, {\"feature\": \"Incorporate a real-time Ethereum price tracker\", \"checked\": false}, {\"feature\": \"Offer user customization of the app theme and appearance\", \"checked\": false}, {\"feature\": \"Include a detailed analytics dashboard for blockchain insights\", \"checked\": false}], \"input_token_count\": 216, \"output_token_count\": 104, \"time_taken\": \"0:00:06.119450\"}",
+        "message_id": "guest23072024104311",
+        "timestamp": "23072024104318",
+        "component_file_name": "simple_header_component_1721730891",
+        "div_id": "",
+        "div_action": ""
+    },
+    {
+        "role": "chat_acknowledge",
+        "content": "Thanks, adding a button that says \"Hey there\".",
+        "message_id": "guest23072024104311",
+        "timestamp": "23072024104312",
+        "component_file_name": "",
+        "div_id": "",
+        "div_action": ""
+    },
+    {
+        "role": "user",
+        "content": "add a button that says hey there",
+        "message_id": "guest23072024104311",
+        "timestamp": "23072024104311",
+        "component_file_name": "simple_header_component_1721730891",
+        "div_id": "",
+        "div_action": ""
+    },
+    {
+        "role": "chat_ui_checklist",
+        "content": "{\"status\": \"success\", \"ui_elements_checklist\": [{\"feature\": \"Dark/Light mode toggle on the navbar for user preference\", \"checked\": true}, {\"feature\": \"Dropdown menu under 'About' for additional information like 'Team', 'Technology', and 'History'\", \"checked\": false}, {\"feature\": \"Search functionality on the navbar to quickly find blockchain data\", \"checked\": true}, {\"feature\": \"Real-time notifications icon on the navbar about new Ethereum blockchains being analyzed\", \"checked\": false}, {\"feature\": \"User authentication option on the navbar for personalized experiences\", \"checked\": true}, {\"feature\": \"Language selection dropdown for multilingual support\", \"checked\": false}], \"input_token_count\": 221, \"output_token_count\": 131, \"time_taken\": \"0:00:07.175176\"}",
+        "message_id": "guest23072024103716",
+        "timestamp": "23072024103725",
+        "component_file_name": "simple_footer_component_1721730891",
+        "div_id": "",
+        "div_action": ""
+    },
+    {
+        "role": "chat_acknowledge",
+        "content": "Acknowledged, working on adding a navbar with home, about and contact navlinks.",
+        "message_id": "guest23072024103716",
+        "timestamp": "23072024103718",
+        "component_file_name": "",
+        "div_id": "",
+        "div_action": ""
+    },
+    {
+        "role": "user",
+        "content": "add a navbar with the navlinks home, about and contact",
+        "message_id": "guest23072024103716",
+        "timestamp": "23072024103716",
+        "component_file_name": "simple_footer_component_1721730891",
+        "div_id": "",
+        "div_action": ""
+    },
+    {
+        "role": "summary",
+        "content": "Can you describe the project a bit more?",
+        "timestamp": "23072024104528",
         "message_id": "guest23072024104520"
     }
 ]

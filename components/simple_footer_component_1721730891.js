@@ -16,7 +16,16 @@ Vue.component("simple_footer_component_1721730891", {
                 <div class="flex">
                     <div id="footer-text" class="flex-1 block text-sm text-center text-gray-500 dark:text-gray-400">
                         Gain deep insights into new Ethereum blockchains with our cutting-edge analysis tools. Explore, visualize, and unlock the potential of decentralized data.
+                        Gain deep insights into new Ethereum blockchains with our cutting-edge analysis tools. Explore, visualize, and unlock the potential of decentralized data.
                     </div>
+                </div>
+                <div class="flex mt-4">
+                    <div class="flex-1 flex justify-center">
+                        <button class="bg-yellow-500 hover:bg-yellow-600 text-white font-bold py-2 px-4 rounded">
+                            Submit
+                        </button>
+                    </div>
+                </div>
                 </div>
             </div>
         </footer> 

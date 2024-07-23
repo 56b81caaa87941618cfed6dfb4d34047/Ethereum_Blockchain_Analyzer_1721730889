@@ -1,5 +1,14 @@
 [
     {
+        "role": "chat_qna",
+        "content": "{\"status\": \"success\", \"qna\": [{\"question 1\": \"Would you like the button to have a specific shade of gold for its background, or are you open to us selecting a visually appealing gold tone that matches the app's aesthetic?\", \"option1\": \"I have a specific shade in mind, and I will provide the color code.\", \"option2\": \"I trust your judgement in selecting a gold tone that fits well.\"}, {\"question 2\": \"Should the 'Submit' button have additional visual feedback on tap or click, such as changing color or lighting up, to indicate to the user that their action has been registered?\", \"option1\": \"Yes, I would like visual feedback on interaction.\", \"option2\": \"No, keep the button's appearance static upon interaction.\"}], \"input_token_count\": 265, \"output_token_count\": 160, \"time_taken\": \"0:00:07.408142\"}",
+        "message_id": "guest23072024104629",
+        "timestamp": "23072024104638",
+        "component_file_name": "simple_footer_component_1721730891",
+        "div_id": "",
+        "div_action": ""
+    },
+    {
         "role": "chat_acknowledge",
         "content": "Working on adding a gold submit button.",
         "message_id": "guest23072024104629",

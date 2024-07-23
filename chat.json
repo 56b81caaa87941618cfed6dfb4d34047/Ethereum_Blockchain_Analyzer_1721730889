@@ -1,5 +1,14 @@
 [
     {
+        "role": "chat_acknowledge",
+        "content": "Got it, adding sidebar with home, about and contact links.",
+        "message_id": "guest23072024104520",
+        "timestamp": "23072024104521",
+        "component_file_name": "",
+        "div_id": "",
+        "div_action": ""
+    },
+    {
         "role": "user",
         "content": "add a sidebar with the nav links home, about and contact",
         "message_id": "guest23072024104520",

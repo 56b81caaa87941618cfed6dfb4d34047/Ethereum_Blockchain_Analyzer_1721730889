@@ -6,9 +6,9 @@ Vue.component("simple_cta_component_1721730891", {
         <div class="w-64 h-screen bg-black text-white p-4">
             <nav>
                 <ul>
-                    <li class="mb-2"><a href="#" class="hover:text-purple-300">Home</a></li>
-                    <li class="mb-2"><a href="#" class="hover:text-purple-300">About</a></li>
-                    <li class="mb-2"><a href="#" class="hover:text-purple-300">Contact</a></li>
+                    <li class="mb-2"><a href="#" class="text-white hover:text-purple-300">Home</a></li>
+                    <li class="mb-2"><a href="#" class="text-white hover:text-purple-300">About</a></li>
+                    <li class="mb-2"><a href="#" class="text-white hover:text-purple-300">Contact</a></li>
                 </ul>
             </nav>
         </div>

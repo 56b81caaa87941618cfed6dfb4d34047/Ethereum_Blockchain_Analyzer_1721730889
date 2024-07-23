@@ -1,5 +1,14 @@
 [
     {
+        "role": "chat_ui_checklist",
+        "content": "{\"status\": \"success\", \"ui_elements_checklist\": [{\"feature\": \"Change navbar background color to black\", \"checked\": true}, {\"feature\": \"Ensure all navlinks (Home, About, Contact) have sufficient contrast against the black navbar for accessibility\", \"checked\": true}, {\"feature\": \"Add hover effects to navlinks for better user interaction\", \"checked\": false}, {\"feature\": \"Implement a responsive design for the navbar to adapt to different screen sizes\", \"checked\": true}, {\"feature\": \"Include a brand logo or icon on the navbar for brand identity\", \"checked\": false}, {\"feature\": \"Incorporate a search bar within the navbar for quick navigation\", \"checked\": false}], \"input_token_count\": 380, \"output_token_count\": 146, \"time_taken\": \"0:00:14.161497\"}",
+        "message_id": "guest23072024104740",
+        "timestamp": "23072024104757",
+        "component_file_name": "simple_cta_component_1721730891",
+        "div_id": "",
+        "div_action": ""
+    },
+    {
         "role": "chat_qna",
         "content": "{\"status\": \"success\", \"qna\": [{\"question 1\": \"Would you prefer the navbar to be static or sticky at the top of the page?\", \"option1\": \"Static\", \"option2\": \"Sticky\"}, {\"question 2\": \"Should the 'Home', 'About', and 'Contact' links be aligned to the left, center, or right side of the navbar?\", \"option1\": \"Left-aligned\", \"option2\": \"Center-aligned\"}], \"input_token_count\": 426, \"output_token_count\": 96, \"time_taken\": \"0:00:08.167031\"}",
         "message_id": "guest23072024104740",

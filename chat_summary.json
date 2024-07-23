@@ -42,5 +42,11 @@
         "content": "{\"status\": \"success\", \"ui_elements_checklist\": [{\"feature\": \"Add a button that says 'Hey There'\", \"checked\": true}, {\"feature\": \"Implement dynamic status updates for new Ethereum blocks\", \"checked\": false}, {\"feature\": \"Enable push notifications for significant blockchain events\", \"checked\": false}, {\"feature\": \"Incorporate a real-time Ethereum price tracker\", \"checked\": false}, {\"feature\": \"Offer user customization of the app theme and appearance\", \"checked\": false}, {\"feature\": \"Include a detailed analytics dashboard for blockchain insights\", \"checked\": false}], \"input_token_count\": 216, \"output_token_count\": 104, \"time_taken\": \"0:00:06.119450\"}",
         "timestamp": "23072024104318",
         "message_id": "guest23072024104311"
+    },
+    {
+        "role": "user",
+        "content": "add a sidebar with the nav links home, about and contact",
+        "timestamp": "23072024104520",
+        "message_id": "guest23072024104520"
     }
 ]

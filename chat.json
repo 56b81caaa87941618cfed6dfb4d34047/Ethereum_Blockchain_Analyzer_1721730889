@@ -1,5 +1,14 @@
 [
     {
+        "role": "chat_acknowledge",
+        "content": "Alright, adding a black navbar with the required fields.",
+        "message_id": "guest23072024104740",
+        "timestamp": "23072024104741",
+        "component_file_name": "",
+        "div_id": "",
+        "div_action": ""
+    },
+    {
         "role": "user",
         "content": "add a black navbar with the fields home, about and contact",
         "message_id": "guest23072024104740",

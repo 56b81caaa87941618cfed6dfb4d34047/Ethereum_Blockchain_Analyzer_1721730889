@@ -21,7 +21,7 @@ Vue.component("simple_footer_component_1721730891", {
                 </div>
                 <div class="flex mt-4">
                     <div class="flex-1 flex justify-center">
-                        <button class="bg-yellow-500 hover:bg-yellow-600 text-white font-bold py-2 px-4 rounded">
+                        <button class="bg-purple-600 hover:bg-purple-700 text-white font-bold py-2 px-4 rounded transition duration-300 ease-in-out">
                             Submit
                         </button>
                     </div>

@@ -48,5 +48,11 @@
         "content": "add a sidebar with the nav links home, about and contact",
         "timestamp": "23072024104520",
         "message_id": "guest23072024104520"
+    },
+    {
+        "role": "chat_qna",
+        "content": "{\"status\": \"success\", \"qna\": [{\"question 1\": \"Would you prefer the sidebar to be visible at all times or should it be accessible via a toggle button?\", \"option1\": \"Always visible\", \"option2\": \"Accessible via toggle button\"}, {\"question 2\": \"Should the sidebar be positioned on the left or right side of the screen?\", \"option1\": \"Left side\", \"option2\": \"Right side\"}], \"input_token_count\": 267, \"output_token_count\": 90, \"time_taken\": \"0:00:03.556429\"}",
+        "timestamp": "23072024104525",
+        "message_id": "guest23072024104520"
     }
 ]

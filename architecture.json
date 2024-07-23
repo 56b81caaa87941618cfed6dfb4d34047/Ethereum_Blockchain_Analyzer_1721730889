@@ -22,5 +22,9 @@
     {
         "level": 1,
         "task_description": "add a button that says submit with a gold background"
+    },
+    {
+        "level": 1,
+        "task_description": "This is the user's previous chat history with this AI:\nIn a conversation between a user and an AI assistant, the user requested the addition of a navbar with \"home\", \"about\", and \"contact\" navlinks. The AI acknowledged this request and asked for more details about the project to better understand the context and requirements for the navbar integration.\nAI: Working on adding a gold submit button.\nUser: add a button that says submit with a gold background\nAI: Got it, adding sidebar with home, about and contact links.\nUser: add a sidebar with the nav links home, about and contact\nAI: Thanks, adding a button that says \"Hey there\".\nUser: add a button that says hey there\nThis is the user's current request of changes to be made: add a black navbar with the fields home, about and contact"
     }
 ]
